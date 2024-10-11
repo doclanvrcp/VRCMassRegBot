@@ -1,0 +1,2 @@
+Here each line should be a hysteria2 proxy for shuffle pick up
+e.g. hysteria2://

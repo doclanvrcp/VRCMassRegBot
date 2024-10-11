@@ -1,0 +1,1 @@
+here to put your email provider! each line is a domain, e.g. gmail.com
